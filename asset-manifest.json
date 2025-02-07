@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/law-firm/static/css/main.9b3d0d5d.css",
+    "main.js": "/law-firm/static/js/main.243eecf7.js",
+    "static/js/453.e8e7a516.chunk.js": "/law-firm/static/js/453.e8e7a516.chunk.js",
+    "static/media/about.jpeg": "/law-firm/static/media/about.2c03201ae5a8d4c8b8e8.jpeg",
+    "index.html": "/law-firm/index.html",
+    "main.9b3d0d5d.css.map": "/law-firm/static/css/main.9b3d0d5d.css.map",
+    "main.243eecf7.js.map": "/law-firm/static/js/main.243eecf7.js.map",
+    "453.e8e7a516.chunk.js.map": "/law-firm/static/js/453.e8e7a516.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b3d0d5d.css",
+    "static/js/main.243eecf7.js"
+  ]
+}
